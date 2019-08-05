@@ -1,4 +1,4 @@
-# reading_list
+# Sample Reading List App
 
 ## Project setup
 ```
@@ -15,7 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### Run your tests (incomplete)
 ```
 npm run test
 ```
